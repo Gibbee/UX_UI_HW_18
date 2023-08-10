@@ -196,3 +196,10 @@ footer {
 .footer-right a {
     align-self: center;
 }
+
+
+/** challenge 18 Specific CSS Code **/
+.flexContainer,
+.flexContainer2 {
+    display: flex;
+}
